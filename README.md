@@ -6,7 +6,7 @@ Bot de pesca para Rag Mobile
 
 Baixe agora: 
 
-[Hamgnarok](https://desesquecedor.com.br)
+[Hamgnarok](https://zeus.tiote.com.br/apps/hamgnarok.exe)
 
 ## Status
 🚧 Em testes
