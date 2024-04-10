@@ -12,8 +12,8 @@ Baixe agora:
 🚧 Em testes
 
 ## Visão Geral
-O sistema faz a leitura da tela para identificar certos padrões
-Com base nos padrões pré-definidos ele executa cliques na tela
+- O sistema faz a leitura da tela para identificar certos padrões
+- Com base nos padrões pré-definidos ele executa cliques na tela
 
 ## Tela
 
