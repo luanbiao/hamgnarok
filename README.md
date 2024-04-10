@@ -17,4 +17,4 @@ Com base nos padrões pré-definidos ele executa cliques na tela
 
 ## Tela
 
-![Telas Hamgnarok](https://github.com/luanbiao/hamgnarok/blob/main/hamgnarok-telas.png)
+![Telas Hamgnarok](https://github.com/luanbiao/hamgnarok/blob/main/telas.png)
